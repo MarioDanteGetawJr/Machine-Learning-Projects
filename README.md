@@ -1,4 +1,4 @@
-# Unsupervised-Learning-ML---Movie-Analysis
+# Unsupervised Learning - Movie-Analysis
 
 - This is a project I completed in an Introduction to Artificial Intelligence Course at Oakton University.
 The goal of this project was to demonstrate Unsupervised Learning techniques on a chart of movies for which we do not know the genre or release date.
