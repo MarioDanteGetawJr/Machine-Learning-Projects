@@ -1,7 +1,3 @@
-# Welcome to My Machine Learning Projects!
-- This is a repository of solely Machine Learning Projects that I have completed in an 'Introduction to Artificial Intelligence' course that I took at Oakton University (online). Each branch is representative of a different project. 
-# Branches:
-  - Interview-Response-Analyzer
-  - Machine-Learning--- Analyzing-Correlations-In-Math
-  - Unsupervised Learning ---Movie-Analysis
+# Data Clustering - Retail Mall Location Placement
 
+The goal of this project was to write a program that predicts the placement of stores in a shopping mall
